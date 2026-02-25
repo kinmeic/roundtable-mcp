@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "MiniMax-Coding-Plan": {
+      "command": "uvx",
+      "args": ["minimax-coding-plan-mcp", "-y"],
+      "env": {
+        "MINIMAX_API_KEY": "your-api-key-here",
+        "MINIMAX_API_HOST": "https://api.minimaxi.com"
+      }
+    },
+    "Roundtable": {
+      "command": "python3",
+      "args": ["mcp_server.py"]
+    }
+  }
+}
