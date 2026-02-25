@@ -94,11 +94,6 @@ roundtable/
 └── requirements.txt    # 依赖
 ```
 
-## 文档
-
-- [MCP 说明书](docs/MCP_Specification.md)
-- [部署说明书](docs/Deployment_Guide.md)
-
 ## 依赖
 
 - Python >= 3.8
